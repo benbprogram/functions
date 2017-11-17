@@ -1,0 +1,8 @@
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\bin\Release\functions.exe
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\bin\Release\functions.pdb
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\bin\Release\functions.xml
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\obj\x86\Release\functions.Resources.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\obj\x86\Release\functions.vbproj.GenerateResource.Cache
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\obj\x86\Release\functions.exe
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\obj\x86\Release\functions.xml
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\functions\functions\obj\x86\Release\functions.pdb
